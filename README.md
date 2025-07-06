@@ -20,6 +20,10 @@ Este repositório tem como objetivo organizar e reunir as atividades desenvolvid
   Utilização de redes neurais para modelar o processo de resfriamento de um líquido quente.  
   🔗 [Acesse o repositório](https://github.com/giovannicriso/RESFRIAMENTO-CAFE)
 
+**Atividade 6 – Bandas de Energia em Cristal 1D**  
+  Simulação e comparação das bandas de energia em um cristal unidimensional usando modelos de potencial quase-livre e potencial real.  
+  🔗 [Acesse o repositório](https://github.com/giovannicriso/Estrutura-de-Bandas)
+  
 ---
 
 📌 *Cada projeto conta com README próprio contendo explicações tanto das atividades quanto dos códigos.*
